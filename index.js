@@ -9,4 +9,4 @@ function divide(){
 
 
 
-let add = (a,b)=> {return a+b};
+let add = (x,y) => x + y;
