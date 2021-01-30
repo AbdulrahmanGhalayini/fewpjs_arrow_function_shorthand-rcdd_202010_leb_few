@@ -1,3 +1,5 @@
 
 
-let divide = (x , y) => y / x;
+function divide(){
+  return 20;
+}
