@@ -5,4 +5,4 @@ function divide(){
 }
 
 
-let square: = nums.map(x => x * 2);
+let square = (x) =>{return x*x};
