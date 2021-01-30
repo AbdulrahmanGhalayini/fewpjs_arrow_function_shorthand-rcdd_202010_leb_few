@@ -6,3 +6,7 @@ function divide(){
 
 
  square = (x) =>{return x*x};
+
+
+
+add = (a,b)=> {return a+b}
