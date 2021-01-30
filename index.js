@@ -5,4 +5,4 @@ function divide(){
 }
 
 
-let square = (x) =>{return x*x};
+ square = (x) =>{return x*x};
